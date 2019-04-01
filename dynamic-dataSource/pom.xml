@@ -8,7 +8,7 @@
         <version>2.0.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.wzc</groupId>
+    <groupId>com.bangxuehui</groupId>
     <artifactId>dynamic-datasource</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>dynamic-datasource</name>

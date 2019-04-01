@@ -1,10 +1,10 @@
 package com.bangxuehui.dynamicdatasource;
 
 /**
- * Created with IntelliJ IDEA.
- * Description:
- * User: joey
- * Date: 2019-01-29 17:46
+ * 描述
+ *
+ * @author yw
+ * @date 2019/4/1
  */
 public class Test {
 
